@@ -1,0 +1,22 @@
+=============================== R E S U L T S ===============================
+>AY091973.1 Saguinus oedipus hemophilia B gene, partial cds
+ === to ===  
+>AY091970.1 Gorilla gorilla hemophilia B gene, partial cds (% Ident = 92%)
+
+IDENTITY/MATCH SCORE      : 72.57751937984496
+BASE SEQ STARTING POS     : 114
+--------------------------------------------------------
+>AY091973.1 Saguinus oedipus hemophilia B gene, partial cds
+ === to ===  
+>AY091972.1 Macaca sp. hemophilia B gene, partial cds ( % Ident = 91.81%)
+
+IDENTITY/MATCH SCORE      : 72.57751937984496
+BASE SEQ STARTING POS     : 108
+--------------------------------------------------------
+>AY091973.1 Saguinus oedipus hemophilia B gene, partial cds
+ === to ===  
+>AY091971.1 Pongo pygmaeus hemophilia B gene, partial cds (% Ident = 91.62%)
+
+IDENTITY/MATCH SCORE      : 72.38372093023256
+BASE SEQ STARTING POS     : 114
+--------------------------------------------------------

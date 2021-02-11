@@ -1,0 +1,25 @@
+=============================== R E S U L T S ===============================
+>AY091973.1 Saguinus oedipus hemophilia B gene, partial cds
+
+ ------------ Frame 1 ------------
+MYPYYHSL
+MPESLPKNQCRVTDPFVSGTWHNL
+MAK
+MTSGFIITNEKPITT
+MIVLNDFSFRKKK
+MRFIFNR
+MSSIYKIHHL
+MSRR
+ ------------ Frame 2 ------------
+MKSL
+MTFRSEKKNELALITFNQNHHNISLRSLTLPVRSVKPSRHLENLCT
+ ------------ Frame 3 ------------
+MNLCSKKGLEYLKFGKSRIIHD
+MSEQTHLYDSPE
+MNWLSLHLTKIITI
+M
+MQLLISTAMTLPFWNWINP
+MLHLFALLTRNTRTSSSNLELAM
+MREVEIHVKEIVEDPILLKWKGPVS
+**********************************************
+

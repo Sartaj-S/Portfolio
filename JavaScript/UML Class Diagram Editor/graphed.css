@@ -1,0 +1,44 @@
+#graphpanel {
+    border: solid black thin;
+}
+/* table {
+    border: 15px;
+} */
+#toolcontainer{
+    position: relative; 
+    width: 475; 
+    height: 76; 
+    display: grid;
+    grid-auto-flow: column;
+}
+.toolDiv {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    background:rgb(211,211,211)
+}
+#selected {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+}
+.toolCaps {
+    position: relative;
+    width: 50%;
+    height: 50%;
+    left: 25%;
+    top:25%;
+    bottom:25%;
+    z-index: 1;
+
+}
+.toolCanv {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+
+}
+/* canvas { border: 1px solid black; } */
